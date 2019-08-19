@@ -1,7 +1,7 @@
 <template>
     <div class="login_body">
         <div>
-            <input type="text" class="login_text" placeholder="账户名/后记号/email">
+            <input type="text" class="login_text" placeholder="账户名/手机号/email">
             </div>
         <div>
             <input type="password" class="login_text" placeholder="请输入密码"/>
