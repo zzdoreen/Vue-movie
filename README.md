@@ -4,6 +4,7 @@
 
 ## api
 ```
+>###通过vue-cli配置的proxyTable实现的服务器代理，数据只适用于在开发环境
 正在热映
 http://39.97.33.178/api/movieOnInfoList?cityId=10
 
