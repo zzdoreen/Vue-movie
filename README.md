@@ -4,7 +4,8 @@
 
 ## api
 ```
-###通过vue-cli配置的proxyTable实现的服务器代理，数据只适用于在开发环境
+✨  通过vue-cli配置proxyTable实现的代理请求数据，数据只能在开发环境中获取
+💥  城市定位的api中少数城市名称和城市api的名称不一样，会获取不到id
 
 正在热映
 http://39.97.33.178/api/movieOnInfoList?cityId=10
